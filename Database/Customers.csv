@@ -1,0 +1,11 @@
+customer_id,user_id,full_name,email,phone_number,address,adhar_number,pan_number,balance,LoginTime,calculate_interest
+50001,10001,"Balaji M",balaji.56@gmail.com,9876543210,"Kota, Rajasthan",123456789012,ABZCD1234E,12000.00,"2024-03-15 10:43:49",1
+50002,10004,Chinmayaa,chinmay@gmail.com,1234567890,"Kurnool, AP",987654321098,XYZAB5678F,6000.00,"2024-03-15 10:47:19",0
+50003,10005,"Goutham Babu",gowtham@002gmail.com,9876543750,"Hyderabad, TS",456789012345,,18000.00,"2024-03-19 14:12:14",1
+50004,10006,"Padmanabhan G",pad59@gmail.com,2345678901,"Banglore, Karnataka",,MNPQR9012G,8000.00,"2024-03-19 18:06:54",0
+50005,10008,"Param K",param50@gmail.com,3456789012,"Mumbai, Maharashtra",890123456789,STUVW3456H,16000.00,"2024-03-15 10:53:11",1
+50006,10007,"Nishanth S",nishant89@gmail.com,9876543267,"Chennai, TN",567890123456,,12000.00,"2024-03-19 14:14:03",0
+50008,10012,"Jythoish B",Jyo.26@gmail.com,987654390,"Pakala, AP",123456735021,KBZGD1234E,12500.00,"2024-03-19 18:07:12",1
+50009,10013,"Chaitanya T",chaitan.87@gmail.com,9875443750,"Nellore, AP",989367495120,CUZGD1674E,19700.00,"2024-03-19 18:05:39",0
+50010,10014,"Manikanta G",mani89@gmail.com,8576543270,"Vijayawada, AP",989367497620,FLHAL7459U,15000.00,"2024-03-19 14:31:16",1
+50011,10016,"Shashank S",shaknk90@gmail.com,7376543270,"Tirupathi, AP",759367497620,FIZGD1674E,15500.00,"2024-03-20 10:27:53",1

@@ -1,0 +1,8 @@
+nominee_id,customer_id,nominee_name,relationship,contact_no
+90002,50001,"Sandesh K",brother,8765432109
+90003,50002,"Kishore T",Son,7654321098
+90004,50003,"Sathwik K",Nephew,6543210952
+90005,50004,"Priya K",Wife,5432109876
+90006,50006,"Padmaa S",Sister,5432109876
+90007,50010,"Nithin V",Brother,5432109832
+90009,50006,"Chandrudu G",Father,8765432178

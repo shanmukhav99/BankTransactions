@@ -1,0 +1,11 @@
+card_id,card_type,status,expiration_date,customer_id
+3000,debit,active,2030-03-27,50002
+3001,credit,active,2030-03-27,50003
+3002,credit,active,2035-10-22,50004
+3003,debit,hotlisted,2032-05-18,50005
+3004,debit,hotlisted,2028-05-14,50006
+3005,credit,active,2029-05-14,50001
+3007,credit,hotlisted,2024-03-08,50008
+3008,credit,hotlisted,2024-03-17,50010
+3009,debit,hotlisted,2026-03-30,50011
+3010,debit,hotlisted,2024-03-15,50008
